@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log("STL PT Web Dev Sept 2023");
+console.log(1990 + 10);
+console.log("Hello!");
+console.log("I'm finishing the assignment.");
+console.log("Hello!", "I'm finishing the assignment.");
+console.log('"Nevermore"');
 
 /*  
 Next, PLAY! 
